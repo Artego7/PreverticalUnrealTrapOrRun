@@ -1,0 +1,17 @@
+Dos jugadores: A y B
+
+A Activa las trampas para impedir que B Llegue al objetivo.
+Puede colocar pequeñas trampas para molestar más (tiene un limite), si está construyendola, B puede pasar sin problema. Las Puede seleccionar y al pasar el ratón por el mapa se visualiza como quedará.
+
+B Vacila y puede desactivar las trampas para llegar antes al objetivo.
+(Si muere respawnea en el comienzo de la en la que muere.)
+
+Al llegar B al final se cambian las tornas.
+
+Gana el que lo hace en menor tiempo.
+
+
+(Se pueden crear mapas con trampas a tu elección.)
+
+
+Camera compartida que al alejarse el uno del otro se juntan (mismo PC).
